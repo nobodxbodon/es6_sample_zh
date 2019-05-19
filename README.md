@@ -1,7 +1,6 @@
-在Firefox 66.0.4下测试弹窗正确, 但在Chrome Version 74.0.3729.157 (Official Build) (64-bit) 下报错:
-```
-Uncaught SyntaxError: Invalid or unexpected token
-```
+在以下浏览器测试:
+- Firefox 66.0.4
+- Chrome Version 74.0.3729.157 (Official Build) (64-bit)
 
 #### 环境搭建
 
