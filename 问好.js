@@ -1,5 +1,8 @@
 export default class 问好 {
+  constructor () {
+    this.人 = "nnnnn";
+  }
   嚷嚷() {
-    alert("what")
+    alert(this.人)
   }
 }
